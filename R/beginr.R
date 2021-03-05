@@ -3,7 +3,7 @@
 #' Output the bibtex entry of installed packages. If \code{bibfile} is not "",
 #' bibentry will be saved to bibfile.
 #'
-#' @param pkgs character vector of package names to cite
+#' @param pkgs character vector of package names to cite.
 #' @param bibfile character string, file path to save the bib entries.  If ""
 #' (the default), it prints to the standard output connection, or save the bibtex
 #' entry to \code{bibfile}.
